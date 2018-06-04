@@ -1,2 +1,0 @@
-<!--Please insert the below HTML Code at the end of page. Recommanded insert to lower than </body></HTML>, it can be keep the loading speed even the server is maintenance.-->
-<script language="javascript" src="http://mfp.zoosnet.net/JS/LsJS.aspx?siteid=MFP16752728&float=1&lng=en"></script>
